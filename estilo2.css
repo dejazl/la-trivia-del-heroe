@@ -1,0 +1,30 @@
+body
+{
+	background-image: url('Recursos/Fondo.png');
+	background-repeat: no-repeat;
+ 	 background-size: 1360px 670px;
+	text-align: left;
+	font-family: Helvetica Neue,Helvetica,Arial,sans-serif;
+}
+
+.dprincipal
+{
+	width: 400px;
+	background-color: #DD9C3CC5;
+	border-radius: 20px;
+}
+
+.dprincipal:hover
+{
+	background: #DD9C3CE6;
+}
+
+.vidas
+{
+	margin-top: 600px;
+	width: 400px;
+	height: 400px;
+	background-color: yellow;
+	border-radius: 20px;
+
+}
