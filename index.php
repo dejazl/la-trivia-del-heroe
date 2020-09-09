@@ -15,7 +15,7 @@
 <?php
 
 session_start();
-$conexion=new mysqli("localhost","root","","trivia");
+$conexion=new mysqli("brexblobtt6rliliumxa-mysql.services.clever-cloud.com","udhwgrucgzqsuqat","","brexblobtt6rliliumxa");
 
 
 $max = 20;
